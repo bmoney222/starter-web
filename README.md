@@ -21,4 +21,4 @@ Please fork this repo and then issue Pull Requests for review
 
 ### Copyright
 
-2015 Bmoney222
+2015 Bmoney222 All rights reserved.
